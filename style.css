@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(150deg, #1f005c, #6c358e, #b56fc3, #ffaefb);
+}
+.heading{
+    background: #ffaefb;
+    margin: 0;
+    height: 50;
+    color: black;
+}
+.bton{
+    width: 30%;
+    height: 10%;
+    font-size: 23px;
+    border-radius: 50px;
+    background: #ffaefb;
+    color: black;
+}
